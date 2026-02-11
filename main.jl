@@ -9,3 +9,6 @@ function suma_cuadrados(a , b )
 function saludar(nombre)
   return "Hola, $nombre, bienvenido a Ciencia de Datos ."
 end
+
+println(msg)
+println(valor)
