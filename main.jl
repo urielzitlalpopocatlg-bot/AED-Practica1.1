@@ -10,6 +10,11 @@ function saludar(nombre)
   return "Hola, $nombre, bienvenido a Ciencia de Datos ."
 end
 
+
 # Llamada a funciones
 msg = saludar("Estudiante")
 valor = suma_cuadrados(3 , 4)
+
+println(msg)
+println(valor)
+
