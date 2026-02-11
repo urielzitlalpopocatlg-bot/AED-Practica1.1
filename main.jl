@@ -5,4 +5,7 @@ println("Hola, Mundo desde Julia!")
 function suma_cuadrados(a , b )
   resultado = a ^2 + b ^2
   return resultado
+# 2. Definicion de una funcion simple
+function saludar(nombre)
+  return "Hola, $nombre, bienvenido a Ciencia de Datos ."
 end
